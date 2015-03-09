@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="gb2312"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>https://moademo.zte.com.cn:8081/moa/iphone/MOA.ipa</string>
+                                </dict>
+				                <dict>
+				                	<key>kind</key>
+				                	<string>full-size-image</string>
+				                	<key>needs-shine</key>
+				                	<false/>
+				                	<key>url</key>
+				                	<string>https://moademo.zte.com.cn:8081/moa/iphone/MOACloud-512.png</string>
+				                </dict>
+				                <dict>
+				                	<key>kind</key>
+				                	<string>display-image</string>
+				                	<key>needs-shine</key>
+				                	<false/>
+				                	<key>url</key>
+				                	<string>https://moademo.zte.com.cn:8081/moa/iphone/MOACloud-57.png</string>
+				                </dict>
+                                
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.zte.km.moa.ios</string>
+                                <key>bundle-version</key>
+                                <string>1.0</string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>MOA</string>
+                                <key>message</key>
+                                <string>message_test</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
