@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://10.41.214.200/download/moa/iphone/MOACloud_IOS.ipa</string>
+                                        <string>http://10.41.214.200:8102/download/moa/iphone/MOACloud_IOS.ipa</string>
                                 </dict>
 				                <dict>
 				                	<key>kind</key>
@@ -19,7 +19,7 @@
 				                	<key>needs-shine</key>
 				                	<false/>
 				                	<key>url</key>
-				                	<string>http://10.41.214.200:8080/download/moa/iphone/MOACloud-512.png</string>
+				                	<string>http://10.41.214.200:8102/download/moa/iphone/MOACloud-512.png</string>
 				                </dict>
 				                <dict>
 				                	<key>kind</key>
@@ -27,7 +27,7 @@
 				                	<key>needs-shine</key>
 				                	<false/>
 				                	<key>url</key>
-				                	<string>http://10.41.214.200:8080/download/moa/iphone/MOACloud-57.png</string>
+				                	<string>http://10.41.214.200:8102/download/moa/iphone/MOACloud-57.png</string>
 				                </dict>
                                 
                         </array>
