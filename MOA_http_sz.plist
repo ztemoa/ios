@@ -19,7 +19,7 @@
 				                	<key>needs-shine</key>
 				                	<false/>
 				                	<key>url</key>
-				                	<string>http://moatest.zte.com.cn/download/MOACloud-512.png</string>
+				                	<string>http://moatest.zte.com.cn/download/MOA-512.png</string>
 				                </dict>
 				                <dict>
 				                	<key>kind</key>
@@ -27,7 +27,7 @@
 				                	<key>needs-shine</key>
 				                	<false/>
 				                	<key>url</key>
-				                	<string>http://moatest.zte.com.cn/download/MOACloud-57.png</string>
+				                	<string>http://moatest.zte.com.cn/download/MOA-57.png</string>
 				                </dict>
                                 
                         </array>
