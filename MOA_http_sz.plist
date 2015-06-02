@@ -34,7 +34,7 @@
                         <key>metadata</key>
                         <dict>
                                 <key>bundle-identifier</key>
-                                <string>com.zte.km.moa.ios</string>
+                                <string>com.zte.km.moa</string>
                                 <key>bundle-version</key>
                                 <string>1.0</string>
                                 <key>kind</key>
